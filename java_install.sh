@@ -8,3 +8,4 @@ else
        echo "congratulations java insatlled successfully"
 
 fi
+cd /usr/lib/jvm/
