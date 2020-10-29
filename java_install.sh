@@ -8,4 +8,6 @@ else
        echo "congratulations java insatlled successfully"
 
 fi
-cd /usr/lib/jvm/
+cd /usr/lib/jvm
+echo "path added"
+/
